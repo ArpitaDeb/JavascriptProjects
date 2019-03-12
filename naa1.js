@@ -10,7 +10,7 @@ isMarried = false;
 
 console.log(firstName + ' is a '+ age + ' year old '+ job + '. Is he married? ' + isMarried);
 
-age = 'twenty eight';
+age = 'twenty nine';
 
 var year, yearNel, yearArp;
 year = 2020;
